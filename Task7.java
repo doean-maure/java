@@ -19,6 +19,8 @@ public class Task7 {
         
         int product = multiplication(num1, num2);
         System.out.println("Product of two numbers: " + product);
+
+        sc.close();
     }
 
     public static int addition (int num1,int num2) {
